@@ -22,7 +22,7 @@ const AboutSection = () => {
             </p>
             <p>
               <span className="text-muted-foreground">experiência:</span>{" "}
-              <span className="text-primary">"2+ anos"</span>,
+              <span className="text-primary">"5+ anos"</span>,
             </p>
             <p>
               <span className="text-muted-foreground">paixão:</span>{" "}
