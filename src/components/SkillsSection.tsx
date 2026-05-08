@@ -1,8 +1,8 @@
 const skills = [
-  { category: "Frontend", items: ["React", "TypeScript", "Next.js", "Tailwind CSS", "HTML/CSS"] },
-  { category: "Backend", items: ["Node.js", "Express", "Python", "PostgreSQL", "MongoDB"] },
-  { category: "DevOps", items: ["Docker", "Git", "CI/CD", "AWS", "Linux"] },
-  { category: "Ferramentas", items: ["VS Code", "Figma", "Postman", "Jest", "GitHub Actions"] },
+  { category: "Backend", items: ["PHP Avançado", "Laravel", "PostgreSQL", "MySQL", "MariaDB"] },
+  { category: "Frontend", items: ["JavaScript", "NextJS", "HTML5", "CSS3 Avançado", "APIs RESTful"] },
+  { category: "DevOps & Infraestrutura", items: ["AWS Infrastructure", "Migração de Dados", "Testes e Debugging", "Git", "Linux"] },
+  { category: "Ferramentas & Métodos", items: ["Figma (Noções)", "Documentação Técnica", "Metodologias Ágeis", "Aprendizado Contínuo", "User Stories"] },
 ];
 
 const SkillsSection = () => {

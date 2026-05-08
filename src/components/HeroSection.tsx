@@ -14,17 +14,16 @@ const HeroSection = () => {
           &gt; hello_world
         </p>
         <h1 className="text-5xl md:text-7xl font-bold text-foreground mb-6 animate-fade-in-up" style={{ animationDelay: '0.1s' }}>
-          Desenvolvedor<br />
-          <span className="text-primary text-glow">Full Stack</span>
+          Desenvolvedor Web<br />
+          <span className="text-primary text-glow">Fullstack</span>
         </h1>
         <p className="text-muted-foreground text-lg md:text-xl max-w-xl mx-auto mb-10 animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
-          Transformo ideias em aplicações robustas e escaláveis. 
-          React, Node.js, TypeScript e muito mais.
+          Especialista em PHP & Laravel | NextJS. Transformo user stories em funcionalidades eficientes e documentadas.
         </p>
 
         <div className="flex items-center justify-center gap-4 animate-fade-in-up" style={{ animationDelay: '0.3s' }}>
           <a
-            href="https://github.com/seu-usuario"
+            href="https://github.com/Kobayashi24730"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground font-[var(--font-display)] text-sm font-semibold rounded-lg box-glow hover:scale-105 transition-transform"
@@ -33,7 +32,7 @@ const HeroSection = () => {
             GitHub
           </a>
           <a
-            href="https://linkedin.com/in/seu-usuario"
+            href="https://linkedin.com/in/guilherme-silva-9253a8354"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-6 py-3 border border-border text-foreground font-[var(--font-display)] text-sm rounded-lg hover:border-primary hover:text-primary transition-colors"
@@ -42,7 +41,7 @@ const HeroSection = () => {
             LinkedIn
           </a>
           <a
-            href="mailto:seu@email.com"
+            href="mailto:guisato.acdc@gmail.com"
             className="flex items-center gap-2 px-6 py-3 border border-border text-foreground font-[var(--font-display)] text-sm rounded-lg hover:border-primary hover:text-primary transition-colors"
           >
             <Mail size={18} />

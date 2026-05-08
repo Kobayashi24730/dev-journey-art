@@ -14,18 +14,18 @@ const ContactSection = () => {
         </p>
 
         <a
-          href="mailto:seu@email.com"
+          href="mailto:guisato.acdc@gmail.com"
           className="inline-flex items-center gap-2 px-8 py-4 bg-primary text-primary-foreground font-[var(--font-display)] text-sm font-semibold rounded-lg box-glow hover:scale-105 transition-transform mb-12"
         >
           <Mail size={18} />
-          seu@email.com
+          guisato.acdc@gmail.com
         </a>
 
         <div className="flex items-center justify-center gap-6 text-muted-foreground">
-          <a href="https://github.com/seu-usuario" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors" aria-label="GitHub">
+          <a href="https://github.com/Kobayashi24730" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors" aria-label="GitHub">
             <Github size={22} />
           </a>
-          <a href="https://linkedin.com/in/seu-usuario" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors" aria-label="LinkedIn">
+          <a href="https://linkedin.com/in/guilherme-silva-9253a8354" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors" aria-label="LinkedIn">
             <Linkedin size={22} />
           </a>
         </div>

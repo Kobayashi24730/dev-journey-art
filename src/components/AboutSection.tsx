@@ -14,19 +14,19 @@ const AboutSection = () => {
           <div className="pl-6 space-y-2 font-[var(--font-display)] text-sm">
             <p>
               <span className="text-muted-foreground">nome:</span>{" "}
-              <span className="text-primary">"Seu Nome"</span>,
+              <span className="text-primary">"Guilherme Silva"</span>,
             </p>
             <p>
               <span className="text-muted-foreground">cargo:</span>{" "}
-              <span className="text-primary">"Desenvolvedor Full Stack"</span>,
+              <span className="text-primary">"Desenvolvedor Web Fullstack"</span>,
             </p>
             <p>
               <span className="text-muted-foreground">experiência:</span>{" "}
-              <span className="text-primary">"3+ anos"</span>,
+              <span className="text-primary">"2+ anos"</span>,
             </p>
             <p>
               <span className="text-muted-foreground">paixão:</span>{" "}
-              <span className="text-primary">"Criar soluções que impactam pessoas"</span>,
+              <span className="text-primary">"Transformar user stories em funcionalidades eficientes"</span>,
             </p>
           </div>
           <div className="font-[var(--font-display)] text-sm text-muted-foreground mt-4">
@@ -34,10 +34,7 @@ const AboutSection = () => {
           </div>
 
           <p className="text-muted-foreground mt-6 leading-relaxed">
-            Sou apaixonado por tecnologia e desenvolvimento de software. 
-            Tenho experiência construindo aplicações web completas, desde o design 
-            da interface até a arquitetura do backend. Busco sempre escrever código 
-            limpo, performático e escalável.
+            Sou um desenvolvedor web fullstack com sólida experiência no desenvolvimento e manutenção de sistemas robustos utilizando PHP (Laravel) e JavaScript (NextJS). Especialista em bancos de dados relacionais e rotinas complexas de migração de dados. Foco em entregar soluções seguras e performáticas, com forte capacidade analítica para transformar user stories em funcionalidades eficientes e documentadas.
           </p>
         </div>
       </div>
